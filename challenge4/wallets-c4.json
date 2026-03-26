@@ -1,0 +1,17 @@
+[
+  {
+    "address": "erd1dvmhpz67q6vuxcj2jgf7gfg3v4tp0s95f70ess26s3ln9leh5asqyx09t8",
+    "shard": 0,
+    "privateKeyHex": "619674197d98afb86088760fbe5576cd12aa1844905bf24757c354bd0f9c9134"
+  },
+  {
+    "address": "erd1g75kp096qu34mpxv7w2dxdch6wghlapy53uqf22sszm2tv3x0whsusnjkk",
+    "shard": 1,
+    "privateKeyHex": "3ac3ef39b9c249664368c82f0e8ccd39ccd2fc288982f694d96cab7a3e3c8265"
+  },
+  {
+    "address": "erd1juk0luslk5rzxzxfm7ek6f9jp34mnzftlkq2mw0wkx46q5kzfhfq4ju2nd",
+    "shard": 2,
+    "privateKeyHex": "91a59271c1140716d3669b091bb3fb3d1dc8ca4e0eb73e425dacd45cb54ee4f8"
+  }
+]

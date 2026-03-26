@@ -1,0 +1,17 @@
+[
+  {
+    "shard": 0,
+    "deployerAddress": "erd1dvmhpz67q6vuxcj2jgf7gfg3v4tp0s95f70ess26s3ln9leh5asqyx09t8",
+    "contractAddress": "erd1qqqqqqqqqqqqqpgq5d4c3lzq4fpz467shyugdg3n4n090s0p5asqy5zg8d"
+  },
+  {
+    "shard": 1,
+    "deployerAddress": "erd1g75kp096qu34mpxv7w2dxdch6wghlapy53uqf22sszm2tv3x0whsusnjkk",
+    "contractAddress": "erd1qqqqqqqqqqqqqpgq8fs86zl449n52wyswl40es42pa8cvx240whsgdq8k9"
+  },
+  {
+    "shard": 2,
+    "deployerAddress": "erd1juk0luslk5rzxzxfm7ek6f9jp34mnzftlkq2mw0wkx46q5kzfhfq4ju2nd",
+    "contractAddress": "erd1qqqqqqqqqqqqqpgqzl928d4n4rrrclz7s9f24qdes4ad35j7fhfquhm2yx"
+  }
+]
